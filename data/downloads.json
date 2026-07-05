@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T07:17:46.471Z",
+  "generated_at": "2026-07-05T07:27:17.244Z",
   "ocis": [
     {
       "tag_name": "v8.0.5",
@@ -11,7 +11,7 @@
           "name": "End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.5/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf",
           "size": 77879,
-          "download_count": 14
+          "download_count": 15
         },
         {
           "name": "ocis-8.0.5-darwin-amd64",
@@ -41,7 +41,7 @@
           "name": "ocis-8.0.5-linux-386",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.5/ocis-8.0.5-linux-386",
           "size": 129052856,
-          "download_count": 24
+          "download_count": 25
         },
         {
           "name": "ocis-8.0.5-linux-386.sha256",
@@ -53,19 +53,19 @@
           "name": "ocis-8.0.5-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.5/ocis-8.0.5-linux-amd64",
           "size": 138409008,
-          "download_count": 193
+          "download_count": 205
         },
         {
           "name": "ocis-8.0.5-linux-amd64.sha256",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.5/ocis-8.0.5-linux-amd64.sha256",
           "size": 89,
-          "download_count": 14
+          "download_count": 15
         },
         {
           "name": "ocis-8.0.5-linux-arm",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.5/ocis-8.0.5-linux-arm",
           "size": 128909496,
-          "download_count": 33
+          "download_count": 39
         },
         {
           "name": "ocis-8.0.5-linux-arm.sha256",
@@ -77,7 +77,7 @@
           "name": "ocis-8.0.5-linux-arm64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.5/ocis-8.0.5-linux-arm64",
           "size": 142606689,
-          "download_count": 66
+          "download_count": 72
         },
         {
           "name": "ocis-8.0.5-linux-arm64.sha256",
@@ -145,7 +145,7 @@
           "name": "ocis-8.0.4-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.4/ocis-8.0.4-linux-amd64",
           "size": 138343440,
-          "download_count": 523
+          "download_count": 528
         },
         {
           "name": "ocis-8.0.4-linux-amd64.sha256",
@@ -195,13 +195,13 @@
           "name": "End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.3/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf",
           "size": 77879,
-          "download_count": 143
+          "download_count": 148
         },
         {
           "name": "ocis-8.0.3-darwin-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.3/ocis-8.0.3-darwin-amd64",
           "size": 137085504,
-          "download_count": 322
+          "download_count": 329
         },
         {
           "name": "ocis-8.0.3-darwin-amd64.sha256",
@@ -225,7 +225,7 @@
           "name": "ocis-8.0.3-linux-386",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.3/ocis-8.0.3-linux-386",
           "size": 128848056,
-          "download_count": 48
+          "download_count": 49
         },
         {
           "name": "ocis-8.0.3-linux-386.sha256",
@@ -237,13 +237,13 @@
           "name": "ocis-8.0.3-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.3/ocis-8.0.3-linux-amd64",
           "size": 138173712,
-          "download_count": 598
+          "download_count": 608
         },
         {
           "name": "ocis-8.0.3-linux-amd64.sha256",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.3/ocis-8.0.3-linux-amd64.sha256",
           "size": 89,
-          "download_count": 41
+          "download_count": 42
         },
         {
           "name": "ocis-8.0.3-linux-arm",
@@ -261,13 +261,13 @@
           "name": "ocis-8.0.3-linux-arm64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.3/ocis-8.0.3-linux-arm64",
           "size": 142410081,
-          "download_count": 131
+          "download_count": 134
         },
         {
           "name": "ocis-8.0.3-linux-arm64.sha256",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.0.3/ocis-8.0.3-linux-arm64.sha256",
           "size": 89,
-          "download_count": 11
+          "download_count": 12
         },
         {
           "name": "third-party-licenses.tar.gz",
@@ -1709,7 +1709,7 @@
           "name": "ocis-5.0.9-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.9/ocis-5.0.9-linux-amd64",
           "size": 101482816,
-          "download_count": 640
+          "download_count": 642
         },
         {
           "name": "ocis-5.0.9-linux-amd64.sha256",
@@ -1733,7 +1733,7 @@
           "name": "ocis-5.0.9-linux-arm64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.9/ocis-5.0.9-linux-arm64",
           "size": 108790081,
-          "download_count": 73
+          "download_count": 74
         },
         {
           "name": "ocis-5.0.9-linux-arm64.sha256",
@@ -4301,7 +4301,7 @@
           "name": "owncloud_4.8.2-original-release.apk",
           "browser_download_url": "https://github.com/owncloud/android/releases/download/v4.8.2/owncloud_4.8.2-original-release.apk",
           "size": 14447601,
-          "download_count": 134
+          "download_count": 148
         }
       ]
     },
@@ -4315,7 +4315,7 @@
           "name": "owncloud_4.8.1-original-release.apk",
           "browser_download_url": "https://github.com/owncloud/android/releases/download/v4.8.1/owncloud_4.8.1-original-release.apk",
           "size": 14443109,
-          "download_count": 276
+          "download_count": 277
         }
       ]
     },
@@ -4343,7 +4343,7 @@
           "name": "owncloud_4.7.0-original-release.apk",
           "browser_download_url": "https://github.com/owncloud/android/releases/download/v4.7.0/owncloud_4.7.0-original-release.apk",
           "size": 14068034,
-          "download_count": 867
+          "download_count": 868
         }
       ]
     },
@@ -5920,7 +5920,7 @@
     "android": {
       "url": "https://play.google.com/store/apps/details?id=com.owncloud.android&hl=en&gl=us",
       "rating": 4.4,
-      "ratingCount": 14608,
+      "ratingCount": 14611,
       "installs": "500,000+"
     },
     "ios": {
