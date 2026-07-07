@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T04:57:29.548Z",
+  "generated_at": "2026-07-07T07:29:13.306Z",
   "ocis": [
     {
       "tag_name": "v8.1.0",
@@ -53,7 +53,7 @@
           "name": "ocis-8.1.0-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v8.1.0/ocis-8.1.0-linux-amd64",
           "size": 139492208,
-          "download_count": 15
+          "download_count": 21
         },
         {
           "name": "ocis-8.1.0-linux-amd64.sha256",
@@ -1341,7 +1341,7 @@
           "name": "ocis-7.1.1-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v7.1.1/ocis-7.1.1-linux-amd64",
           "size": 113849136,
-          "download_count": 258
+          "download_count": 259
         },
         {
           "name": "ocis-7.1.1-linux-amd64.sha256",
@@ -1709,7 +1709,7 @@
           "name": "ocis-7.0.0-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v7.0.0/ocis-7.0.0-linux-amd64",
           "size": 112292808,
-          "download_count": 386
+          "download_count": 387
         },
         {
           "name": "ocis-7.0.0-linux-amd64.sha256",
@@ -2353,7 +2353,7 @@
           "name": "ocis-5.0.7-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.7/ocis-5.0.7-linux-amd64",
           "size": 101470304,
-          "download_count": 44
+          "download_count": 45
         },
         {
           "name": "ocis-5.0.7-linux-amd64.sha256",
@@ -2629,7 +2629,7 @@
           "name": "ocis-5.0.6-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.6/ocis-5.0.6-linux-amd64",
           "size": 101470336,
-          "download_count": 43
+          "download_count": 44
         },
         {
           "name": "ocis-5.0.6-linux-amd64.sha256",
@@ -2813,7 +2813,7 @@
           "name": "ocis-6.0.0-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v6.0.0/ocis-6.0.0-linux-amd64",
           "size": 109692864,
-          "download_count": 188
+          "download_count": 189
         },
         {
           "name": "ocis-6.0.0-linux-amd64.sha256",
@@ -2905,7 +2905,7 @@
           "name": "ocis-5.0.5-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.5/ocis-5.0.5-linux-amd64",
           "size": 101441376,
-          "download_count": 369
+          "download_count": 370
         },
         {
           "name": "ocis-5.0.5-linux-amd64.sha256",
@@ -2997,7 +2997,7 @@
           "name": "ocis-5.0.4-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.4/ocis-5.0.4-linux-amd64",
           "size": 101441376,
-          "download_count": 84
+          "download_count": 85
         },
         {
           "name": "ocis-5.0.4-linux-amd64.sha256",
@@ -3089,7 +3089,7 @@
           "name": "ocis-5.0.3-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.3/ocis-5.0.3-linux-amd64",
           "size": 101433184,
-          "download_count": 80
+          "download_count": 81
         },
         {
           "name": "ocis-5.0.3-linux-amd64.sha256",
@@ -3181,7 +3181,7 @@
           "name": "ocis-5.0.2-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.2/ocis-5.0.2-linux-amd64",
           "size": 101420928,
-          "download_count": 44
+          "download_count": 45
         },
         {
           "name": "ocis-5.0.2-linux-amd64.sha256",
@@ -3273,7 +3273,7 @@
           "name": "ocis-5.0.1-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.1/ocis-5.0.1-linux-amd64",
           "size": 101420928,
-          "download_count": 169
+          "download_count": 170
         },
         {
           "name": "ocis-5.0.1-linux-amd64.sha256",
@@ -3457,7 +3457,7 @@
           "name": "ocis-5.0.0-linux-amd64",
           "browser_download_url": "https://github.com/owncloud/ocis/releases/download/v5.0.0/ocis-5.0.0-linux-amd64",
           "size": 101367488,
-          "download_count": 105
+          "download_count": 106
         },
         {
           "name": "ocis-5.0.0-linux-amd64.sha256",
@@ -4393,7 +4393,7 @@
           "name": "owncloud_4.8.2-original-release.apk",
           "browser_download_url": "https://github.com/owncloud/android/releases/download/v4.8.2/owncloud_4.8.2-original-release.apk",
           "size": 14447601,
-          "download_count": 170
+          "download_count": 171
         }
       ]
     },
@@ -5623,7 +5623,7 @@
       "0.9.3": 0,
       "0.9.5": 0,
       "0.9.6": 0,
-      "0.9.7": 0
+      "0.9.7": 3
     },
     "syncblue": {
       "1.2.1": 0,
@@ -6030,7 +6030,7 @@
     "android": {
       "url": "https://play.google.com/store/apps/details?id=com.owncloud.android&hl=en&gl=us",
       "rating": 4.4,
-      "ratingCount": 14614,
+      "ratingCount": 14615,
       "installs": "500,000+"
     },
     "ios": {
